@@ -21,7 +21,7 @@ wo und woran ich arbeite, solange es etwas Neues zu lernen gibt.
 
 | Projekt | Worum es geht |
 |---|---|
-| ft_transcendence | Full-Stack-Webapp mit Echtzeit-Multiplayer-Pong, das Abschlussprojekt des Common Core |
+| ft_transcendence *(in Arbeit)* | Social-Media-Plattform zum Ausleihen von Büchern, das Abschlussprojekt des Common Core |
 | [minishell](https://github.com/RoboFB/minishell) | Eine bash-ähnliche Shell in C: Parsing, Pipes, Redirections, Umgebungsvariablen und Signale |
 | [webserv](https://github.com/RoboFB/webserv) | Ein HTTP/1.1-Server in C++ mit non-blocking I/O, CGI und Config-Dateien |
 | fract_ol | Fraktal-Explorer in C mit Echtzeit-Zoom und Farbpaletten |
