@@ -13,7 +13,9 @@ wo und woran ich arbeite, solange es etwas Neues zu lernen gibt.
 - **Bisher jedes Projekt im ersten Versuch bestanden**, auf dem Weg dahin manchmal etwas overengineered
 - **Viele Peer-Evaluations**: fremden Code zu lesen ist die Hälfte davon, wie ich lerne
 
-**Stack:** C · C++ · Rust · Linux · Make · Docker · Git
+## Stack
+
+[![Stack](https://skillicons.dev/icons?i=c,cpp,rust,linux,bash,docker,git,vscode)](https://skillicons.dev)
 
 ---
 
