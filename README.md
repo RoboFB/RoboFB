@@ -1,7 +1,5 @@
 # Hi, ich bin Robin Göhrig
 
-> 42 Heilbronn student and trained mechatronics technician. C, C++ and Rust.
-
 Student an der [42 Heilbronn](https://www.42heilbronn.de), gelernter Mechatroniker.
 
 Mich interessiert, wie Dinge funktionieren, quer durch alle Bereiche: Mechanik, Elektrik
