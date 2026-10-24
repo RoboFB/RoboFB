@@ -9,7 +9,6 @@ wo und woran ich arbeite, solange es etwas Neues zu lernen gibt.
 
 - **42 Common Core:** 20 Projekte von Peer-Evaluatoren mit *outstanding* bewertet
 - **Bisher jedes Projekt im ersten Versuch bestanden**, auf dem Weg dahin manchmal etwas overengineered
-- **Viele Peer-Evaluations**: fremden Code zu lesen ist die Hälfte davon, wie ich lerne
 
 ## Stack
 
@@ -21,13 +20,18 @@ wo und woran ich arbeite, solange es etwas Neues zu lernen gibt.
 
 | Projekt | Worum es geht |
 |---|---|
-| ft_transcendence *(in Arbeit)* | Social-Media-Plattform zum Ausleihen von Büchern, das Abschlussprojekt des Common Core |
+| [miniRT](https://github.com/RoboFB/miniRT) | Raytracer in C (Teamprojekt): Kugeln, Ebenen und Zylinder, Phong-Beleuchtung, Schatten, Spiegel, Glas und Anti-Aliasing |
 | [minishell](https://github.com/RoboFB/minishell) | Eine bash-ähnliche Shell in C: Parsing, Pipes, Redirections, Umgebungsvariablen und Signale |
-| [webserv](https://github.com/RoboFB/webserv) | Ein HTTP/1.1-Server in C++ mit non-blocking I/O, CGI und Config-Dateien |
-| fract_ol | Fraktal-Explorer in C mit Echtzeit-Zoom und Farbpaletten |
 
 **Außerdem abgeschlossen:** libft · ft_printf · get_next_line · Born2beroot · push_swap · pipex ·
-philosophers · NetPractice · miniRT · C++ Modules · Inception
+philosophers · fract_ol · NetPractice · C++ Modules · Inception
+
+## Gerade in Arbeit
+
+| Projekt | Worum es geht |
+|---|---|
+| [webserv](https://github.com/RoboFB/webserv) | Ein HTTP/1.1-Server in C++ mit non-blocking I/O, CGI und Config-Dateien (Teamprojekt) |
+| ft_transcendence | Social-Media-Plattform zum Ausleihen von Büchern, das Abschlussprojekt des Common Core |
 
 ---
 
