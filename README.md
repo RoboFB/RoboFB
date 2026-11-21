@@ -22,6 +22,7 @@ wo und woran ich arbeite, solange es etwas Neues zu lernen gibt.
 |---|---|
 | [miniRT](https://github.com/RoboFB/miniRT) | Raytracer in C (Teamprojekt): Kugeln, Ebenen und Zylinder, Phong-Beleuchtung, Schatten, Spiegel, Glas und Anti-Aliasing |
 | [minishell](https://github.com/RoboFB/minishell) | Eine bash-ähnliche Shell in C: Parsing, Pipes, Redirections, Umgebungsvariablen und Signale |
+| [webserv](https://github.com/RoboFB/webserv) | Ein HTTP/1.1-Server in C++ mit non-blocking I/O, CGI und Config-Dateien (Teamprojekt) |
 
 **Außerdem abgeschlossen:** libft · ft_printf · get_next_line · Born2beroot · push_swap · pipex ·
 philosophers · fract_ol · NetPractice · C++ Modules · Inception
@@ -30,8 +31,7 @@ philosophers · fract_ol · NetPractice · C++ Modules · Inception
 
 | Projekt | Worum es geht |
 |---|---|
-| [webserv](https://github.com/RoboFB/webserv) | Ein HTTP/1.1-Server in C++ mit non-blocking I/O, CGI und Config-Dateien (Teamprojekt) |
-| ft_transcendence | Social-Media-Plattform zum Ausleihen von Büchern, das Abschlussprojekt des Common Core |
+| [ft_transcendence](https://github.com/BookWurms/bookWurms) | bookWurms eine Platform zum austaschen über Büchern (Abschluss Teamprojekt des 42 Common Cores) |
 
 ---
 
